@@ -1,0 +1,11 @@
+C:\csharp\en\forloop\bin\Debug\netcoreapp3.0\forloop.exe
+C:\csharp\en\forloop\bin\Debug\netcoreapp3.0\forloop.deps.json
+C:\csharp\en\forloop\bin\Debug\netcoreapp3.0\forloop.runtimeconfig.json
+C:\csharp\en\forloop\bin\Debug\netcoreapp3.0\forloop.runtimeconfig.dev.json
+C:\csharp\en\forloop\bin\Debug\netcoreapp3.0\forloop.dll
+C:\csharp\en\forloop\bin\Debug\netcoreapp3.0\forloop.pdb
+C:\csharp\en\forloop\obj\Debug\netcoreapp3.0\forloop.csprojAssemblyReference.cache
+C:\csharp\en\forloop\obj\Debug\netcoreapp3.0\forloop.AssemblyInfoInputs.cache
+C:\csharp\en\forloop\obj\Debug\netcoreapp3.0\forloop.AssemblyInfo.cs
+C:\csharp\en\forloop\obj\Debug\netcoreapp3.0\forloop.dll
+C:\csharp\en\forloop\obj\Debug\netcoreapp3.0\forloop.pdb
